@@ -1,0 +1,25 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "vue ssr blog laravel",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yellowming/blog.git"
+  },
+  "keywords": [
+    "vue",
+    "ssr",
+    "blog",
+    "laravel"
+  ],
+  "author": "yellowming",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yellowming/blog/issues"
+  },
+  "homepage": "https://github.com/yellowming/blog#readme"
+}
